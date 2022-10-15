@@ -38,4 +38,26 @@ Python to generate the Tipalti iFrame
 * Update the directory inside the bat file
   * 1. Update the Python Path where it is installed
   * 2. Update the Python path where the file resides on your machine
-  
+
+## Inputs
+  * IDAP/Payee ID after configuration.py is updated
+  * Select the Type of iFrame needed
+    1. Payment Setup
+    2. Payments History
+    3. Invoices History 
+
+## Outputs
+* The code will generate the following:
+  * A HTML of the type of iFrame selected
+   1. Payment Setup (Setup_Demo.html)
+   2. Payments History (PaymentHistory_Demo.html)
+   3. Invoices History (InvoiceHistory_Demo.html)
+  * The URL will print on the IDE console / Windows BAT file
+  * A .txt file of the URL is also generated if needed
+   1. Payment Setup (URL_paymentsetup.txt)
+   2. Payments History (URL_Paymenthistory.txt)
+   3. Invoices History (URL_InvoiceHistory.txt)
+  * Error.txt is generated if an invalid input is provided.
+
+## Limitations
+ * Additional paramters not considered (will add in future release)
