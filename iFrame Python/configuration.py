@@ -7,8 +7,8 @@ Created on Mon Oct 10 14:07:07 2022
 """
 
 #Private key found on APHUB. Administration -> Apps -> API Key
-PayerName ="PKH_Sandbox"
-api_key = "rWp9vSkGly6MV3eEGZhWmfaYUvZtIpHcLA3NrRTszmvtoUbKTmUJOurBGKBrNCxJ"
+PayerName ="YOUR-PAYER-NAME"
+api_key = "YOUR-API_KEY"
 
 #Sandbox URLs
 paymentsetup_url = "https://ui2.sandbox.tipalti.com/payeedashboard/home?"
