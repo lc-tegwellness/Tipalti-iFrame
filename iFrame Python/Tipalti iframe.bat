@@ -1,3 +1,6 @@
 @echo off
-"C:\Users\pratik.khatwani\Anaconda3\python.exe" "C:\Users\pratik.khatwani\Downloads\iFrame Python SDK\Tipalti iFrame python.py"
+cls
+:start
+""(REPLACE WITH YOUR DIRECTORY)\python.exe" "(REPLACE WITH YOUR DIRECTORY)\iFrame Python\Tipalti iFrame python.py"
 pause
+goto start
