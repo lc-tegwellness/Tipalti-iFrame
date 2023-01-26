@@ -42,9 +42,12 @@ Python to generate the Tipalti iFrame
 ## Inputs
   * IDAP/Payee ID after configuration.py is updated
   * Select the Type of iFrame needed
-    1. Payment Setup
+    1. Payment Setup (Parameters Allowed)
     2. Payments History
     3. Invoices History 
+
+  * Parameters if required for the Payment Setup iFrame
+  * Enter Parameters as prompted in order
 
 ## Outputs
 * The code will generate the following:
