@@ -60,4 +60,5 @@ Python to generate the Tipalti iFrame
   * Error.txt is generated if an invalid input is provided.
 
 ## Limitations
- * Additional paramters not considered (will add in future release)
+ * Additional paramters added (more coming - will add in future release)
+ * Supports First Name, Last Name, Company Name, Email, Payer Entity, Payee Type, Payee Erp Currency (QBO)
