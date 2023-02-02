@@ -134,6 +134,7 @@ def main():
     
     #payer = input('Please type in payer name: ')
     if selection=='1':
+        para_str = para_str.replace(' ','%20')
         msgiframe = 'payer=' + payer+ '&idap=' + idap +'&ts=' + str(ts) + para_str
     else:
         msgiframe = 'payer=' + payer+ '&idap=' + idap +'&ts=' + str(ts)
