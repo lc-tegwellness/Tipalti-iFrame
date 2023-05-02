@@ -16,9 +16,9 @@ paymenthistory_url = "https://ui2.sandbox.tipalti.com/PayeeDashboard/PaymentsHis
 invoicehistory_url = "https://ui2.sandbox.tipalti.com/PayeeDashboard/Invoices?"
 
 #Production URLs
-#paymentsetup_url = "ui2.tipalti.com/payeedashboard/home?"
-#paymenthistory_url = "ui2.tipalti.com/PayeeDashboard/PaymentsHistory?"
-#invoicehistory_url = "ui2.tipalti.com/PayeeDashboard/Invoices?"
+#paymentsetup_url = "https://ui2.tipalti.com/payeedashboard/home?"
+#paymenthistory_url = "https://ui2.tipalti.com/PayeeDashboard/PaymentsHistory?"
+#invoicehistory_url = "https://ui2.tipalti.com/PayeeDashboard/Invoices?"
 
 htmlstart = """<!DOCTYPE html>
     <html>
