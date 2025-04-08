@@ -7,8 +7,8 @@ Created on Mon Oct 10 14:07:07 2022
 """
 
 #Private key found on APHUB. Administration -> Apps -> API Key
-PayerName ="YOUR-PAYER-NAME"
-api_key = "YOUR-API-KEY"
+PayerName ="TEGWellness"
+api_key = "LjTogD3wWsAlrYRrKZ9FHQIRz3up58LzSOdJdplzXCTM6+m9yWKQetzKsmsziVLi"
 
 #Sandbox URLs
 paymentsetup_url = "https://ui2.sandbox.tipalti.com/payeedashboard/home?"
